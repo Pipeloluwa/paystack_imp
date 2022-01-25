@@ -7,7 +7,7 @@ django-environ==0.8.1
 gunicorn==20.1.0
 idna==3.3
 Pillow==9.0.0
-pypaystack==1.24
+pypaystack
 pytz==2021.3
 requests==2.27.1
 sqlparse==0.4.2
